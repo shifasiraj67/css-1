@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+. join
+{
+background-color: white;
+height: 50vh;
+width: 100%;
+}
+h1 
+{
+font-size: 50px;
+color: lightseagreen;
+padding: 10px;
+margin: 5px;
+}
+.day
+{
+font-size: 30px;
+color:lightgreen;
+padding: 10px;
+margin: 5px;
+}
+.ms
+{
+    background-color: lightseagreen;
+    height: 50vh;
+    width: 50%;
+    float: left;
+    }
+    .ms p {
+        margin-left:50px ;
+
+    }
+    .mn
+    {
+        font-size: 50px;
+        color: white;
+        padding: 30px;
+        margin: 10px;
+    }
+    .whyus
+    {
+      background-color: lightskyblue;
+      float: left;
+      height: 50vh;
+      color: white;
+      width: 50%;
+    }
+    .whyus p{
+        margin-left: 30px;
+    }
+    h2{
+        font-size: 50px;
+        color: white;
+        margin: 5px;
+    }
+    .button{
+        background-color: green;
+        color: white;
+        padding: 30px;
+        margin: 80px;
+        width: 30%;
+    }
